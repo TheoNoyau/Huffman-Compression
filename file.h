@@ -40,7 +40,7 @@ unsigned char bitToCar(unsigned char *tab);
 // Compresse in dans out par l'arbre a
 void ecriture(Bin_file *in, Bin_file *out, dico d);
 
-// Compresse inshallah in dans out par l'arbre a
+// Compresse in dans out par l'arbre a
 void ecrire_2(Bin_file *output, char bit);
 
 
